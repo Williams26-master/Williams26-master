@@ -1,10 +1,11 @@
+
 ### Olá! eu sou o Willian Rocha 👋
 ##### Aprendiz de desenvolvedor
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-carvalho-00aaaa1b6/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carvalho_william_26?igshid=ZDdkNTZiNTM=)
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Carvalho_will?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button )
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=Williams26-master&show_icons=true&theme=onedark)
 
