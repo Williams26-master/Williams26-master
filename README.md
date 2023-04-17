@@ -1,7 +1,6 @@
 
-### Olá! eu sou o Willian Rocha 👋
-##### Aprendiz de desenvolvedor
-
+### Olá! eu sou o Willian Rocha 👋 faço
+#### Gestao da Tecnologia a informoção 2/6🎓
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-carvalho-00aaaa1b6/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carvalho_william_26?igshid=ZDdkNTZiNTM=)
@@ -19,4 +18,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/Williams26-master/github-readme-stats)
 
-Adoro resolver problemas que eu mesmo crio. 
+Especialista em resolver problemas  
+##### Aprendiz de desenvolvedor 🧙📚💻
